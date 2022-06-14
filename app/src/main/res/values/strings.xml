@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">Android Lesson Eight</string>
+    <string name="app_name">Android Studio - Lesson Eight</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="country_name_hint">Country name</string>
+    <string name="choose_date">Choose date</string>
+    <string name="change_date_button">Change date</string>
+    <string name="hint_text">Date created: 01/04/1998</string>
+    <string name="created_string">\Date of creation: \</string>
+    <string name="coat_of_arms">coat of arms</string>
+    <string name="initial_screen_info">Contains info about countries and coats of arms</string>
+    <string name="initial_screen_header">Country Notes Application</string>
+    <string name="initial_screen_button">Go to countries list</string>
+    <string name="go_to_settings_button">Go to settings</string>
+    <string name="about_app_button">About app</string>
+    <string name="not_working_yet">This feature isn\'t available yet</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="about_devs">About devs</string>
+    <string name="about_this_app">About this app</string>
+    <string name="about_text">This app was created to present basic information about countries</string>
+    <string name="drawer_header">Header</string>
+    <string name="navigation_drawer_open">"Открыть "</string>
+    <string name="navigation_drawer_close">Закрыть</string>
 </resources>
