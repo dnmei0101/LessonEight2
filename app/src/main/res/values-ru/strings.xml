@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Андроид Студио - Урок восьмой</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="country_name_hint">Название страны</string>
+    <string name="choose_date">Выбор даты</string>
+    <string name="change_date_button">Поменять дату</string>
+    <string name="hint_text">Дата создания: 01/04/1998</string>
+    <string name="created_string">\Дата создания: \</string>
+    <string name="coat_of_arms">Герб</string>
+    <string name="initial_screen_info">Содержит информацию о странах, их гербах и флагах</string>
+    <string name="initial_screen_header">Приложение с информацией о странах</string>
+    <string name="initial_screen_button">Перейти к списку стран</string>
+    <string name="go_to_settings_button">Настройки</string>
+    <string name="about_app_button">О приложении</string>
+    <string name="not_working_yet">Эта функция еще недоступна</string>
+    <string name="about">О приложении</string>
+    <string name="exit">Выйти</string>
+    <string name="about_devs">О разработчиках</string>
+    <string name="about_this_app">О данном приложении</string>
+    <string name="about_text">Это приложение было создано для представления необходимой информации
+    о существующих странах</string>
+    <string name="drawer_header">Меню</string>
+    <string name="navigation_drawer_open">"Открыть "</string>
+    <string name="navigation_drawer_close">Закрыть</string>
+</resources>
